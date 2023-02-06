@@ -5,7 +5,7 @@ metadata:
   name: component-sample2
   namespace: maysun
 spec:
-  replicas: 2
+  replicas: 22
   selector: {}
   strategy: {}
   template:
