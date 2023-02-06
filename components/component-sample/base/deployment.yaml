@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   name: my-java-springboot
 spec:
-  replicas: 4
+  replicas: 5
   selector:
     matchLabels:
       app: java-springboot-app
